@@ -1,1 +1,1 @@
-# group2-project
+# Group 2: Fritz Duverglas, John Lervandal
