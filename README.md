@@ -18,8 +18,11 @@ Our Hypothesis
 Our hypothesis for our research question is that as production levels increase, the rate of endangered species also increases. As a result, the hypothesis predicts that there is a direct and positive relationship between production levels and the rate of species loss. The testing and refinement of this hypothesis will require us to look at our data sources to attempt to understand the complex relationship between production and biodiversity loss. Our next steps are to clean the data in a way that will allow us to start visualizing and analyzing. Once cleaned, we intend to check over this with Ford Fishman to continue on with our project.
 
 Roles:
+
 Data Pre-Processing and Cleaning - 
-Data Visualization - 
+
+Data Visualization - Matthew Caplovitz
+
 Data Analysis and Statistics - John Lervandal
 
 
