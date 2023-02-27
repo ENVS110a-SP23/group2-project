@@ -1,11 +1,5 @@
 # Group 2: Fritz Duverglas, John Lervandal, Matthew Caplovitz
 
-John Lervandal, Fritz Duverglas, Matthew Caplovitz
-ENVS 110A: Data Analysis for Environmental Studies
-Ford Fishman
-March 3, 2023
-Full Research Proposal
-
 ## Background
 Over the past century, the global economy has experienced significant growth, leading to an increased number of goods and services being produced to meet the demands of a rapidly expanding human population. As a result of this economic growth, the natural world has had to deal with the destruction of habitats, pollution, climate change, and more — driving many species towards extinction. With this in mind, we found that the correlation between production and endangered species is very complex, and is a correlation that could help policymakers with certain environmental decisions. By researching this, we will see if this correlation is something more impactful than we thought. 
 
