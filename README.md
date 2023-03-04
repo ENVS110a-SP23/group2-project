@@ -11,6 +11,12 @@ Our research question goes into the potential correlation between the rate of en
 
 Our hypothesis for our research question is that as production levels increase, the rate of endangered species also increases. As a result, the hypothesis predicts that there is a direct and positive relationship between production levels and the rate of species loss. The testing and refinement of this hypothesis will require us to look at our data sources to attempt to understand the complex relationship between production and biodiversity loss. Our next steps are to clean the data in a way that will allow us to start visualizing and analyzing. Once cleaned, we intend to check over this with Ford Fishman to continue on with our project.
 
+## Links to Data Sources
+
+[United Nations Industrial Development Organization Data](https://docs.google.com/spreadsheets/d/1OvuqivFYtfj8_JqmhC3G8lxGGky05Ibu/edit?usp=share_link&ouid=100161980197844628501&rtpof=true&sd=true)<br>
+[Environmental Conservation Online System Data](https://drive.google.com/file/d/1r27xp6piJQDek9Br7O6UQyzfUQliANmq/view?usp=share_link)
+
+
 ## Roles:
 
 Data Pre-Processing and Cleaning - Fritz Duverglas
