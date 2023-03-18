@@ -14,7 +14,7 @@ Our hypothesis for our research question is that as production levels increase, 
 ## Links to Data Sources
 
 [United Nations Industrial Development Organization Data](https://docs.google.com/spreadsheets/d/1OvuqivFYtfj8_JqmhC3G8lxGGky05Ibu/edit?usp=share_link&ouid=100161980197844628501&rtpof=true&sd=true)<br>
-[ICUN Red List Data](https://drive.google.com/file/d/12USP1IIxVZxnqVNUAjwVt_bNgZCtEO_Y/view?usp=share_link)
+[ICUN Red List Data (Table 7, Years 2007-2021
 
 
 ## Roles:
