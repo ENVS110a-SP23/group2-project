@@ -1,0 +1,37 @@
+{
+  "fields": [
+    {
+      "name": "Scientific Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Common Name",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Species Type",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "IUCN Red List Category",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Reason For Change",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Year",
+      "type": "year",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

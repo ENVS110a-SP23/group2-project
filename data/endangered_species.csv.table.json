@@ -1,0 +1,67 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 60
+    },
+    {
+      "field": "Scientific Name",
+      "title": "Scientific Name",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 181
+    },
+    {
+      "field": "Common Name",
+      "title": "Common Name",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 195
+    },
+    {
+      "field": "Species Type",
+      "title": "Species Type",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 148
+    },
+    {
+      "field": "IUCN Red List Category",
+      "title": "IUCN Red List Category",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 211
+    },
+    {
+      "field": "Reason For Change",
+      "title": "Reason For Change",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 187
+    },
+    {
+      "field": "Year",
+      "title": "Year",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 166
+    }
+  ]
+}
