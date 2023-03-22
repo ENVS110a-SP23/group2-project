@@ -1,0 +1,42 @@
+{
+  "fields": [
+    {
+      "name": "Country Code",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Country Description",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Year",
+      "type": "year",
+      "format": "default"
+    },
+    {
+      "name": "ISIC",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "ISIC Description",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Value",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Quarter",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
